@@ -22,10 +22,14 @@ Le projet est structuré en plusieurs modules pour une gestion efficace et une e
 Ces deux images illustrent les différents cubemaps que l'on peut utiliser dans le projet.
 
 ### Cubemap 1 
-<img align="center" src="images/opengl-1.png" alt="Cubemap 2" width="600" height="450" style="display: block; margin: 0 auto;">
+
+<p align="center">
+<img align="center" width="600" height="450" src="images/opengl-1.png">
+</p>
 
 ### Cubemap 2
-<img align="center" src="images/opengl-2.png" alt="Cubemap 2" width="600" height="450" style="display: block; margin: 0 auto;">
-
+<p align="center">
+<img align="center" width="600" height="450" src="images/opengl-2.png">
+</p>
 
 
